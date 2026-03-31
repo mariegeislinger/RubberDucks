@@ -50,7 +50,6 @@
 /workspaces/RubberDucks/RubberDuckStore/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /workspaces/RubberDucks/RubberDuckStore/obj/Debug/net10.0/scopedcss/bundle/RubberDuckStore.styles.css
 /workspaces/RubberDucks/RubberDuckStore/obj/Debug/net10.0/scopedcss/projectbundle/RubberDuckStore.bundle.scp.css
-/workspaces/RubberDucks/RubberDuckStore/obj/Debug/net10.0/compressed/nuqzf4d7q3-{0}-lugek5hnai-lugek5hnai.gz
 /workspaces/RubberDucks/RubberDuckStore/obj/Debug/net10.0/compressed/719pt44sg6-{0}-61n19gt1b8-61n19gt1b8.gz
 /workspaces/RubberDucks/RubberDuckStore/obj/Debug/net10.0/compressed/12cc95y16c-{0}-fr7q2aak1r-fr7q2aak1r.gz
 /workspaces/RubberDucks/RubberDuckStore/obj/Debug/net10.0/compressed/8090dmlunx-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -125,3 +124,4 @@
 /workspaces/RubberDucks/RubberDuckStore/obj/Debug/net10.0/RubberDuckStore.pdb
 /workspaces/RubberDucks/RubberDuckStore/obj/Debug/net10.0/RubberDuckStore.genruntimeconfig.cache
 /workspaces/RubberDucks/RubberDuckStore/obj/Debug/net10.0/ref/RubberDuckStore.dll
+/workspaces/RubberDucks/RubberDuckStore/obj/Debug/net10.0/compressed/nuqzf4d7q3-{0}-tsxxlwilln-tsxxlwilln.gz
